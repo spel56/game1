@@ -1,0 +1,12 @@
+Library/ 
+Temp/ 
+Logs/ 
+obj/ 
+Packages/ 
+UserSettings/ 
+*.csproj 
+*.sln 
+*.dll 
+*.exe 
+*.mp4 
+*.zip 
